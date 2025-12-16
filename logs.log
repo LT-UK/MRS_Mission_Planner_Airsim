@@ -1,0 +1,18 @@
+2024-02-01 14:53:40.130728 - INFO - Initialisation started
+2024-02-01 14:53:40.131725 - INFO - UAV_1 is created
+2024-02-01 14:53:40.131725 - INFO - UAV_2 is created
+2024-02-01 14:53:40.132722 - INFO - UAV_3 is created
+2024-02-01 14:53:40.132722 - INFO - UAV_4 is created
+2024-02-01 14:53:40.132722 - INFO - UAV_5 is created
+2024-02-01 14:53:40.133718 - INFO - Main simulation started
+2024-02-01 14:53:40.174581 - INFO - Simulation Running
+2024-02-01 14:53:40.178568 - INFO - All UAVs are armed
+2024-02-01 14:53:43.611313 - INFO - All UAVs start to hover
+2024-02-01 14:54:02.050809 - INFO - All UAVs start to go home
+2024-02-01 14:54:14.052281 - INFO - All UAVs start to rotate to 0 degree
+2024-02-01 14:54:16.054032 - INFO - All UAVs have finished rotating
+2024-02-01 14:54:18.055163 - INFO - All UAVs start to land
+2024-02-01 14:54:21.056452 - INFO - All UAVs have landed
+2024-02-01 14:54:24.058408 - INFO - Cleaning Up Simulation
+2024-02-01 14:54:24.059405 - INFO - All UAVs are disarmed
+2024-02-01 14:54:24.067378 - INFO - AirSim client is removed

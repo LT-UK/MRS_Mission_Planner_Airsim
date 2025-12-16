@@ -1,0 +1,63 @@
+{
+    "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/main/docs/settings.md",
+    "SettingsVersion": 1.2,
+    "SimMode": "Multirotor",
+    "ViewMode": "",
+    "Vehicles": {
+        "UAV_1": {
+            "VehicleType": "SimpleFlight",
+            "AutoCreate": true,
+            "X": 0,
+            "Y": 0,
+            "Z": 0.0,
+            "Yaw": 0.0,
+            "Pitch": 0.0,
+            "Roll": 0.0,
+            "Sensors": {}
+        },
+        "UAV_2": {
+            "VehicleType": "SimpleFlight",
+            "AutoCreate": true,
+            "X": 0,
+            "Y": 5,
+            "Z": 0.0,
+            "Yaw": 0.0,
+            "Pitch": 0.0,
+            "Roll": 0.0,
+            "Sensors": {}
+        },
+        "UAV_3": {
+            "VehicleType": "SimpleFlight",
+            "AutoCreate": true,
+            "X": 0,
+            "Y": 10,
+            "Z": 0.0,
+            "Yaw": 0.0,
+            "Pitch": 0.0,
+            "Roll": 0.0,
+            "Sensors": {}
+        },
+        "UAV_4": {
+            "VehicleType": "SimpleFlight",
+            "AutoCreate": true,
+            "X": 0,
+            "Y": 15,
+            "Z": 0.0,
+            "Yaw": 0.0,
+            "Pitch": 0.0,
+            "Roll": 0.0,
+            "Sensors": {}
+        },
+        "UAV_5": {
+            "VehicleType": "SimpleFlight",
+            "AutoCreate": true,
+            "X": 0,
+            "Y": 20,
+            "Z": 0.0,
+            "Yaw": 0.0,
+            "Pitch": 0.0,
+            "Roll": 0.0,
+            "Sensors": {}
+        }
+    }
+}
